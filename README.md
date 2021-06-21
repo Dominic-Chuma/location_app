@@ -39,7 +39,7 @@ $ npm install
 $ npm run start
 
 # watch mode
-$ npm run start:dev
+$ npm run start:dev # Please run this command to start this app
 
 # production mode
 $ npm run start:prod
@@ -64,10 +64,16 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Ifeanyi Otekeiwebia](https://www.linkedIn.com/in/ifeanyi-otekeiwebia-566556156)
+<!-- - Website - [https://nestjs.com](https://nestjs.com/) -->
+<!-- - Twitter - [@nestframework](https://twitter.com/nestframework) -->
 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+NOTE: 
+      Please the code for the calculation of distance was done based on the information left in my postgres database.
+      My postgres passwoord isn't there, you can use yours.
+      
